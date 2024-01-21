@@ -1,6 +1,6 @@
 # IMDB Top 1000 movies PowerBI Dashboard
 <b>video demonstration</b><br>
-![video](/Screenshot and gif/demonstration.gif)
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/iqbal1526/IMDB-Movies-PowerBi-Dashboard/blob/main/Screenshot%20and%20gif/demonstration.gif))
 <br>
 
 <b>screenshot</b><br>
