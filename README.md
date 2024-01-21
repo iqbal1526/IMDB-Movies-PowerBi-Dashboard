@@ -1,6 +1,6 @@
 # IMDB Top 1000 movies PowerBI Dashboard
 <b>video demonstration</b><br>
-![video](/Screenshot and gif/movies dashboard rec.gif)
+![video](/Screenshot and gif/demonstration.gif)
 <br>
 
 <b>screenshot</b><br>
