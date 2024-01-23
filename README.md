@@ -31,4 +31,4 @@ To access and interact with this Power BI dashboard, you need:
 
 2. Download the report file from this repository and open it on the PowerBI desktop.
 
-Feel free to explore the charts, filter data based on your requirements, and gain valuable insights into customer complaints.
+Feel free to explore the charts, filter data based on your requirements, and gain valuable insights from this dashboard.
